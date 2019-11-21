@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Assignment_8</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_add_txt">Add</string>
+    <string name="btn_update_txt">Update</string>
+    <string name="btn_delete_txt">Delete</string>
+    <string name="btn_get_single_txt">Get Customer</string>
+    <string name="btn_get_all_txt">Get All Customers</string>
+    <string name="error_txt"> Error: </string>
+    <string name="btn_back_txt"> Back Top Login section </string>
+    <string name="tv_phone">Phone</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_id">ID</string>
+    <string name="empty_fields_txt">Some fields are empty!</string>
+
+    <string name="no_id_txt">No ID given!</string>
+
+    <string name="customer_id_txt">Customer with ID: </string>
+
+    <string name="not_found_txt"> not found!</string>
+    <string name="update_txt">Updating</string>
+    <string name="success_txt"> was successful!</string>
+    <string name="failure_txt"> failed!</string>
+
+    <string name="delete_txt">Deleting</string>
+    <string name="returned_value_txt">Returned value: </string>
+</resources>
